@@ -32,6 +32,7 @@
         'base',
     ],
     'data': [
+	'views/library_book.xml',
     ],
     'test': [
     ],
