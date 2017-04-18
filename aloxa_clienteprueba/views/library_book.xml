@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
 	<data>
-		<act_windows
+		<act_window
 			id="library_book_action"
 			name ="Library Books"
 			res_model = "library.book"/>
-
-<!-- comentario -->
 	
 		<menuitem
 			id="library_book_menu"
