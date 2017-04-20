@@ -22,7 +22,7 @@
 				<form>
 					<group>
 						<field name="name"/>
-						<field name="author_ids" widget="many2many_tags"/>
+						<field name="pages"/>
 					</group>
 					<group>
 						<field name="date_release"/>
