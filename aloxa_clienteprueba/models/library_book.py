@@ -6,7 +6,7 @@ class LibraryBook(models.Model):
 	_name = 'library.book'
 
 	name = fields.Char('Title', required=True)
-	date_realease = fields.Date('Date Release')
+	date_release = fields.Date('Date Release')
 	notes = fields.Text('Internal Notes')
 	description = fields.Text('Description')
 	cover = fields.Binary('Book Cover')
