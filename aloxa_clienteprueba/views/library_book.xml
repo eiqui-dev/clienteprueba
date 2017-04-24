@@ -27,6 +27,15 @@
 					<group>
 						<field name="date_release"/>
 					</group>
+
+					<group>
+						<field name="description"/>
+						<field name="state"/>
+					</group>
+
+
+
+
 				</form>
 	
 			</field>
