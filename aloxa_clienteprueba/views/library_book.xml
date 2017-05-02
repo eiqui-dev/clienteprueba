@@ -33,7 +33,10 @@
 						<field name="state"/>
 					</group>
 
-
+					<group>
+						<field name="reference"/>
+						
+					</group>
 
 
 				</form>

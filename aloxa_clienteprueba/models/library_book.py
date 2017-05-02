@@ -17,4 +17,5 @@ class LibraryBook(models.Model):
 		('avaliable','Avaliable'),
 		('lost','Lost')],
 		'State')
+	reference = fields.Char('Reference', required=True)
 	
